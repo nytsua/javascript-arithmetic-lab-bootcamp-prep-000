@@ -13,3 +13,7 @@ function multiply(a,b){
 function divide(a,b){
   return Number(a) / Number(b);
 }
+
+function inc(a){
+  return Number(a) + 1;
+}
